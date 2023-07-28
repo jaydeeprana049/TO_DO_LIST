@@ -23,6 +23,6 @@ app.post("/",function(req,res){ // collecting the tasks from textbox input and p
 
 
 
-app.listen(5000,function(){ // creating server
+app.listen("https://to-do-list-git-main-jaydeeprana049.vercel.app/",function(){ // creating server
 console.log("Server started");
 })
